@@ -12,7 +12,7 @@ To use the scripts in this repository, follow these steps:
 
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/yourusername/pycryptexecutor.git
+    git clone https://github.com/ImOnF1r3/PyCryptExecutor.git
     ```
 2. Navigate to the repository directory:
     ```bash
