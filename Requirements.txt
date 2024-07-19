@@ -1,0 +1,5 @@
+Pillow
+piexif
+pycryptodome
+pynput
+requests
